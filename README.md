@@ -16,6 +16,7 @@ https://archive.org/details/pro-rally-2001
 
 ## Known Issues
 * Xbox Controller is not working.
+* Quit Game is not working. You should kill it by Task Manager.
 
 ## Discussions
 
